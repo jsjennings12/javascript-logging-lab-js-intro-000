@@ -1,1 +1,1 @@
-console.error("LOST!")
+console.log("help.")
